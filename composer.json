@@ -16,7 +16,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Muaramasad\\Airport\\Tests\\": "src/tests"
+      "Muaramasad\\Airport\\Tests\\": "src/Tests"
     }
   },
   "require": {
